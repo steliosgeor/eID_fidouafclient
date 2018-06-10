@@ -1,0 +1,4 @@
+#Sun May 27 19:31:29 EEST 2018
+base.0=C\:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7
+renamed.0=classes.dex
+file.0=C\:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7\\classes.dex

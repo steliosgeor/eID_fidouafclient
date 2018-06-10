@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_settings.xml",
+        "source": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\build\\intermediates\\res\\merged\\release\\layout\\fingerprint_dialog_container.xml",
+        "source": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\src\\main\\res\\layout\\fingerprint_dialog_container.xml"
+    },
+    {
+        "merged": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_save_message.xml",
+        "source": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\src\\main\\res\\layout\\dialog_save_message.xml"
+    },
+    {
+        "merged": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_registered.xml",
+        "source": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\src\\main\\res\\layout\\activity_registered.xml"
+    },
+    {
+        "merged": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_fido_uaf.xml",
+        "source": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\src\\main\\res\\layout\\activity_fido_uaf.xml"
+    },
+    {
+        "merged": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\build\\intermediates\\res\\merged\\release\\layout\\fingerprint_dialog_backup.xml",
+        "source": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\src\\main\\res\\layout\\fingerprint_dialog_backup.xml"
+    },
+    {
+        "merged": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_authenticated.xml",
+        "source": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\src\\main\\res\\layout\\activity_authenticated.xml"
+    },
+    {
+        "merged": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\build\\intermediates\\res\\merged\\release\\layout\\fingerprint_dialog_content.xml",
+        "source": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\src\\main\\res\\layout\\fingerprint_dialog_content.xml"
+    }
+]

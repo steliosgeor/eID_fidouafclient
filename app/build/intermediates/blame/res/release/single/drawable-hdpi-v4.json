@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\s_back.xml",
+        "source": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\src\\main\\res\\drawable-hdpi\\s_back.xml"
+    },
+    {
+        "merged": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\register.jpeg",
+        "source": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\src\\main\\res\\drawable-hdpi\\register.jpeg"
+    },
+    {
+        "merged": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\s_authenticate.xml",
+        "source": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\src\\main\\res\\drawable-hdpi\\s_authenticate.xml"
+    },
+    {
+        "merged": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\s_proceed.xml",
+        "source": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\src\\main\\res\\drawable-hdpi\\s_proceed.xml"
+    },
+    {
+        "merged": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\s_deregister.xml",
+        "source": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\src\\main\\res\\drawable-hdpi\\s_deregister.xml"
+    },
+    {
+        "merged": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\authenticate.jpeg",
+        "source": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\src\\main\\res\\drawable-hdpi\\authenticate.jpeg"
+    },
+    {
+        "merged": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\deregister.jpeg",
+        "source": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\src\\main\\res\\drawable-hdpi\\deregister.jpeg"
+    },
+    {
+        "merged": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\s_register.xml",
+        "source": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\src\\main\\res\\drawable-hdpi\\s_register.xml"
+    }
+]

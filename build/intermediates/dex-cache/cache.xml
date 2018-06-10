@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.madgag.spongycastle\core\1.58.0.0\e08789f8f1e74f155db8b69c3575b5cb213c156c\core-1.58.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e08789f8f1e74f155db8b69c3575b5cb213c156c">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-1.58.0.0_afdb083615da054d420d9afff2405271b99f695c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\74e8e58d247eaea585949c674ef4d14a202da95b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8cbeaad7e8b997672976abe01661fb591914f917\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\8f3166953bbd536f43eec0c97e212b9fa8137ad4\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_32b38cf9021d566c900a535793dbd6ae692d1cd4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\8f3166953bbd536f43eec0c97e212b9fa8137ad4\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_32b38cf9021d566c900a535793dbd6ae692d1cd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\74e8e58d247eaea585949c674ef4d14a202da95b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\pre-dexed\debug\classes_8cbeaad7e8b997672976abe01661fb591914f917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.madgag.spongycastle\core\1.58.0.0\e08789f8f1e74f155db8b69c3575b5cb213c156c\core-1.58.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e08789f8f1e74f155db8b69c3575b5cb213c156c">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\pre-dexed\debug\core-1.58.0.0_afdb083615da054d420d9afff2405271b99f695c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\bb6af0b197390023fe50623b87e6d5cbeda6a109\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\pre-dexed\debug\classes_0216cf997192d0cd4515a1e4827232506ffaa493.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\8f3166953bbd536f43eec0c97e212b9fa8137ad4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_be69a4e2fbd640b1c7ca8b72f07e6a8617dcbbce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ee001957ba0e281b8caff0530afe6e8a8eda7cd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\eab68d4c069f5fbef659335abc92e34e7526c9c1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad84582921ea6821091435cc6250f55570a1419e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.madgag.spongycastle\prov\1.58.0.0\2e2c2f624ed91eb40e690e3596c98439b1b50f2a\prov-1.58.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e2c2f624ed91eb40e690e3596c98439b1b50f2a">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\pre-dexed\debug\prov-1.58.0.0_aef168650ef32d2b599d1435688452833c95c27c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_8402fabc8c6cdb8689be13ff407e99cce8e28a3b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_8402fabc8c6cdb8689be13ff407e99cce8e28a3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\bb6af0b197390023fe50623b87e6d5cbeda6a109\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0216cf997192d0cd4515a1e4827232506ffaa493\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.madgag.spongycastle\prov\1.58.0.0\2e2c2f624ed91eb40e690e3596c98439b1b50f2a\prov-1.58.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e2c2f624ed91eb40e690e3596c98439b1b50f2a">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\prov-1.58.0.0_aef168650ef32d2b599d1435688452833c95c27c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\eab68d4c069f5fbef659335abc92e34e7526c9c1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\pre-dexed\debug\classes_ad84582921ea6821091435cc6250f55570a1419e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\8f3166953bbd536f43eec0c97e212b9fa8137ad4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\pre-dexed\debug\classes_be69a4e2fbd640b1c7ca8b72f07e6a8617dcbbce.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\junit-4.12_6c16f77b0d7e305e5e115813524a3fc04c9e0f99\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4b95f4897fa13f2cd904aee711aeafc0c5295cd8">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\pre-dexed\debug\commons-codec-1.10_77183437e43d03fbf04d48242f704eeda6368256.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\pre-dexed\debug\junit-4.12_6c16f77b0d7e305e5e115813524a3fc04c9e0f99.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4b95f4897fa13f2cd904aee711aeafc0c5295cd8">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-codec-1.10_77183437e43d03fbf04d48242f704eeda6368256\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\99b3df85d4e8136b3cbcaa9ab236ccc969e871c6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_72cf67d550a7585f6e4300efe37530d796811e3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\99b3df85d4e8136b3cbcaa9ab236ccc969e871c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\pre-dexed\debug\classes_72cf67d550a7585f6e4300efe37530d796811e3a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\c04dc56087996cd87bd33a3bbd8c59387c4b1d3f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_261907e780b7219313b865cd0d37bbe3445c36f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\pre-dexed\debug\gson-2.3.1_4cd83f43446c853bb73869015ce0aa3df29c939d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\c04dc56087996cd87bd33a3bbd8c59387c4b1d3f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\pre-dexed\debug\classes_261907e780b7219313b865cd0d37bbe3445c36f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\eab68d4c069f5fbef659335abc92e34e7526c9c1\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_b8d999bfaf331ba29216fa4760296e91110b7237.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3.1_4cd83f43446c853bb73869015ce0aa3df29c939d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\eab68d4c069f5fbef659335abc92e34e7526c9c1\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_b8d999bfaf331ba29216fa4760296e91110b7237\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\bb6af0b197390023fe50623b87e6d5cbeda6a109\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_c54d5a6ec23d635e58cb0ecdd452aac8ac813880.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\bb6af0b197390023fe50623b87e6d5cbeda6a109\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_c54d5a6ec23d635e58cb0ecdd452aac8ac813880\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\c04dc56087996cd87bd33a3bbd8c59387c4b1d3f\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_d7eb9c14cdfa48103f3e2d1e0369d8ad35b4e159.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\c04dc56087996cd87bd33a3bbd8c59387c4b1d3f\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_d7eb9c14cdfa48103f3e2d1e0369d8ad35b4e159\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\74e8e58d247eaea585949c674ef4d14a202da95b\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_12b20b8b169b183622e4cb3607438a3674919f42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\hamcrest-core-1.3_73185302ab6e16f4dc96f5f9ed67954ab1f34ba5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\74e8e58d247eaea585949c674ef4d14a202da95b\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_12b20b8b169b183622e4cb3607438a3674919f42.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="10a2513ddc3c1cd75e2dfd350042e5a684512784">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_aaf441eb895f571d21e3db52e4cd72dbc1c63b2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\pre-dexed\debug\hamcrest-core-1.3_73185302ab6e16f4dc96f5f9ed67954ab1f34ba5.jar" />
+    </item>
+
+</items>
