@@ -8,6 +8,10 @@
         "source": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\src\\main\\res\\drawable-hdpi\\s_authenticate.xml"
     },
     {
+        "merged": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ethnosimo.jpg",
+        "source": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\src\\main\\res\\drawable-hdpi\\ethnosimo.jpg"
+    },
+    {
         "merged": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\s_deregister.xml",
         "source": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\src\\main\\res\\drawable-hdpi\\s_deregister.xml"
     },

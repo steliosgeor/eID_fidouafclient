@@ -113,7 +113,9 @@ public class FidoKeystoreAndroidM extends FidoKeystore {
 
     @Override
     public PublicKey getPublicKey(String username){
-        return getCertificate(username).getPublicKey();
+        PublicKey test_key = getCertificate(username).getPublicKey();
+        Log.d(TAG, String.valueOf(test_key));
+        return test_key;
     }
 
     @Override

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Martin - UAF Test RP App</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">Greek eID</string>
+    <string name="action_settings">Ρυθμίσεις</string>
     <string name="action_discover">Discover</string>
     <string name="action_save_message">Save message</string>
     <string name="hello_world">Welcome to eBay\'s \n Test FIDO UAF Client</string>
     <string name="name">Username:</string>
     <string name="token">Token:</string>
-    <string name="action_button_reg">register</string>
+    <string name="action_button_reg">Για να κάνεις είσοδο πάτα εδώ.</string>
     <string name="textWelcome">Welcome</string>
     <string name="enter_message_filename">Enter filename to save message</string>
     <string name="format_message_filename">message-%1$s.txt</string>
@@ -19,20 +19,20 @@
     <string name="cancel">Cancel</string>
 
     <string name="application_name">FingerprintDialog</string>
-    <string name="use_password">Use password</string>
-    <string name="authenticate">Authenticate</string>
+    <string name="use_password">Πληκτρολόγησε τον κωδικό σου</string>
+    <string name="authenticate">Ταυτοποίηση</string>
     <string name="ok">OK</string>
-    <string name="password">Password</string>
-    <string name="fingerprint_description">Confirm fingerprint to continue</string>
-    <string name="fingerprint_hint">Touch sensor</string>
+    <string name="password">Κωδικός πρόσβασης</string>
+    <string name="fingerprint_description">Τοποθέτησε το δαχτυλικό σου αποτύπωμα για να συνεχίσεις</string>
+    <string name="fingerprint_hint">Άγγιξε τον σένσορα</string>
     <string name="password_description">Enter your store password to continue</string>
     <string name="purchase">Purchase</string>
     <string name="purchase_not_invalidated">Purchase not invalidated</string>
     <string name="purchase_button_not_invalidated_description">
         You can proceed to purchase with this button \n even if a new fingerprint is enrolled
     </string>
-    <string name="fingerprint_not_recognized">Fingerprint not recognized. Try again</string>
-    <string name="fingerprint_success">Fingerprint recognized</string>
+    <string name="fingerprint_not_recognized">Το δαχτυλικό αποτύπωμα δεν αναγνωρίστηκε. Προσπάθησε ξανά.</string>
+    <string name="fingerprint_success">Το δαχτυλικό αποτύπωμα ταυτοποίηθηκε</string>
     <string name="item_title">White Mesh Pluto Backpack</string>
     <string name="item_price">$62.68</string>
     <string name="item_description">Mesh backpack in white. Black textile trim throughout.</string>

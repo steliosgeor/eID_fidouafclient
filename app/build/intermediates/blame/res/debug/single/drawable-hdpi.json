@@ -16,6 +16,10 @@
         "source": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\src\\main\\res\\drawable-hdpi\\play.png"
     },
     {
+        "merged": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\images.png",
+        "source": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\src\\main\\res\\drawable-hdpi\\images.png"
+    },
+    {
         "merged": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\info.png",
         "source": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\src\\main\\res\\drawable-hdpi\\info.png"
     },
@@ -24,8 +28,16 @@
         "source": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\src\\main\\res\\drawable-hdpi\\hourglass.png"
     },
     {
+        "merged": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\id_photo.png",
+        "source": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\src\\main\\res\\drawable-hdpi\\id_photo.png"
+    },
+    {
         "merged": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_fp_40px.png",
         "source": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\src\\main\\res\\drawable-hdpi\\ic_fp_40px.png"
+    },
+    {
+        "merged": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\test1.png",
+        "source": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\src\\main\\res\\drawable-hdpi\\test1.png"
     },
     {
         "merged": "C:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\check.png",

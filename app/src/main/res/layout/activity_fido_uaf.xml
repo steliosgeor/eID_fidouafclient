@@ -13,10 +13,19 @@
     <LinearLayout
         android:id="@+id/linearLayout"
         android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="600dp"
         android:layout_alignParentTop="true"
         android:gravity="center"
         android:orientation="vertical">
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="52dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="25dp"
+            android:gravity="center"
+            android:text="Για να συνεχίσεις πάτησε το κουμπί." />
 
         <ImageView
             android:id="@+id/imageButtonPinAuthRequest"
@@ -28,13 +37,7 @@
             android:onClick="proceed"
             android:src="@drawable/s_proceed" />
 
-        <TextView
 
-            android:layout_width="wrap_content"
-            android:layout_height="fill_parent"
-            android:layout_centerHorizontal="true"
-            android:layout_marginTop="25dp"
-            android:text="Consent" />
     </LinearLayout>
 
     <TextView

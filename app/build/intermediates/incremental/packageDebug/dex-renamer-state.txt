@@ -1,4 +1,4 @@
-#Sun May 27 19:31:30 EEST 2018
+#Sat Nov 03 00:51:37 EET 2018
 base.0=C\:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_aaf441eb895f571d21e3db52e4cd72dbc1c63b2d
 renamed.1=classes.dex
 renamed.0=classes2.dex

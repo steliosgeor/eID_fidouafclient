@@ -1,4 +1,4 @@
-#Sat Apr 07 17:07:00 EEST 2018
+#Wed Oct 24 21:40:57 EEST 2018
 base.0=C\:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=C\:\\Thesis\\UAF\\UAF-master\\fidouafclient\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

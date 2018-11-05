@@ -331,7 +331,7 @@
         jumboMode="true"
         optimize="true"
         revision="26.0.0"
-        sha1="10a2513ddc3c1cd75e2dfd350042e5a684512784">
+        sha1="4093ec87de629ce7c4ae5c04a1a3510a4aad28bc">
         <dex dex="C:\Thesis\UAF\UAF-master\fidouafclient\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_aaf441eb895f571d21e3db52e4cd72dbc1c63b2d\classes.dex" />
     </item>
     <item

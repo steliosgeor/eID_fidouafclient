@@ -48,12 +48,12 @@
             android:id="@+id/imageButtonAuthRequest"
             android:layout_width="45dp"
             android:layout_height="45dp"
-            android:contentDescription="AuthRequest"
-            android:onClick="authRequest"
-            android:src="@drawable/authenticate"
             android:layout_above="@+id/textAuthenticateLable"
             android:layout_alignLeft="@+id/textAuthenticateLable"
-            android:layout_alignStart="@+id/textAuthenticateLable" />
+            android:layout_alignStart="@+id/textAuthenticateLable"
+            android:contentDescription="AuthRequest"
+            android:onClick="authRequest"
+            android:src="@drawable/authenticate" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -114,8 +114,7 @@
             android:layout_height="45dp"
             android:contentDescription="Post"
             android:onClick="authRequest"
-            android:src="@drawable/authenticate"
-            />
+            android:src="@drawable/authenticate" />
 
         <TextView
             android:layout_width="wrap_content"

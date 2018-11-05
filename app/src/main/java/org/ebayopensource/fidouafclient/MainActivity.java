@@ -112,8 +112,8 @@ public class MainActivity extends Activity {
             // TODO Auto-generated catch block
             e.printStackTrace();
         }
-        facetID = (TextView) findViewById(R.id.textViewFacetID);
-        facetID.setText(facetIDval);
+     //   facetID = (TextView) findViewById(R.id.textViewFacetID);
+     //   facetID.setText(facetIDval);
     }
 
     public void info(View view) {
@@ -140,17 +140,17 @@ public class MainActivity extends Activity {
 
     public void regRequest(View view) {
 //        String username = Preferences.getSettingsParam("username");
-       String username = ((EditText) findViewById(R.id.editTextName)).getText().toString();
+   //    String username = ((EditText) findViewById(R.id.editTextName)).getText().toString();
 //        String username = ((EditText) findViewById(R.id.editTextName)).getText().toString();
 //        int afm = Integer.parseInt(username);
-
-       if (username.equals ("")) {
-           msg.setText("Username cannot be empty.");
-           return;
-       } else if (!username.matches("[0-9]+") && username.length() != 9){
-            msg.setText("Incorrect AFM number");
-            return;
-        }
+        String username = "user1";
+     //  if (username.equals ("")) {
+      //     msg.setText("Username cannot be empty.");
+     //      return;
+     //  } else if (!username.matches("[0-9]+") && username.length() != 9){
+      //      msg.setText("Incorrect AFM number");
+      //      return;
+     //   }
 
         Preferences.setSettingsParam("username", username);
 
